@@ -6,8 +6,3 @@ The purpose of this analysis is to help analyis data of student funding and stud
 
 Also, the data shows an evidince of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered.
 
-# **Results:**
-The overall results of the district analysis were not severely affected as can be seen on the screenshots below, the average math score before the grades were taken off the calculations was 79% and after 78.9%. The reading scores remained the same for both data sets at an 81.9%.
-
-* How is the district summary affected?
-The results of the district analysis does not indicate a great difference as shown below, the average math score before the grades were taken off the calculations was 79% and after 78.9%. The reading scores remained the same for both data sets at an 81.9%.
