@@ -11,7 +11,7 @@ Also, the data shows an evidince of academic dishonesty; specifically, reading a
 
 * Summary by School Spending:
 
-After looking at the belowr esults. It indicates that the student scores are not related with how much the school is spending. As we can see it shows that the hight the spending the lower the score and vesa versa.
+After looking at the belowr esults. It indicates that the student scores are not related with how much the school is spending. As we can see it shows that the hight the spending the lower the score and vice versa.
 
 ![name-of-you-image](https://github.com/Asmaamkawi/School_District_Analysis/blob/main/image%204.JPG)
 
